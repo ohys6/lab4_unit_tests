@@ -14,7 +14,7 @@
 
 Требования:
 - Параметры должны быть числами (int/float).
-- Параметры должны быть >= 0.
+- Параметры должны быть > 0.
 
 ## 3. Область тестирования
 Покрытие:
@@ -73,8 +73,6 @@ test_perimeter_positive (test_rectangle.RectangleTestCase.test_perimeter_positiv
 test_perimeter_zero (test_rectangle.RectangleTestCase.test_perimeter_zero) ... ok
 
 ----------------------------------------------------------------------
-Ran 11 tests in 0.001s
-
-OK
+Ran 11 tests in 0.000s
 
 ```
